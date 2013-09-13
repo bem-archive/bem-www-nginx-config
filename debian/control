@@ -1,0 +1,13 @@
+Source: bem-www-nginx-conf
+Section: misc
+Priority: extra
+Maintainer: Pavel Bashinsky <pbashinsky@yandex-team.ru>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 1.0.0
+Homepage: http://wiki
+
+Package: bem-www-nginx-conf
+Architecture: all
+Depends: nginx, config-nginx-main, config-nginx-spec
+Description: Auto-generated package
+ Auto-generated package, require nginx-config-main
