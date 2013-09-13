@@ -1,7 +1,8 @@
 #!/usr/bin/make -f
+
 override_dh_install:
-	mkdir -p debian/bem-www-nginx-conf/etc/nginx/sites-enabled
-	cp -r nginx debian/bem-www-nginx-conf/etc/
+	mkdir -p debian/yandex-bem-www-nginx-conf/etc/nginx/sites-enabled
+	cp -r nginx debian/yandex-bem-www-nginx-conf/etc/
 
 %:
 	dh $@
