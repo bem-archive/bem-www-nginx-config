@@ -1,0 +1,12 @@
+yandex-bem-www-nginx-conf (1.1) stable; urgency=low
+
+  * Rebuilding of initial package with another author 
+
+ -- Kirill Khomik <khomikki@yandex-team.ru>  Mon, 16 Sep 2013 15:06:31 +0400
+
+yandex-bem-www-nginx-conf (1.0) stable; urgency=low
+
+  * Init package
+
+ -- Nickolay Ilchenko <tavria@yandex-team.ru>  Fri, 13 Sep 2013 15:08:29 +0400
+
