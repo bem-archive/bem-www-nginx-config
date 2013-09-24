@@ -1,3 +1,9 @@
+yandex-bem-www-nginx-conf (1.2) unstable; urgency=low
+
+  * Add rewrites for method images
+
+ -- Vladimir Grinenko <tadatuta@yandex-team.ru>  Sun, 22 Sep 2013 01:09:39 +0400
+
 yandex-bem-www-nginx-conf (1.1) stable; urgency=low
 
   * Rebuilding of initial package with another author 
