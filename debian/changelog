@@ -1,3 +1,9 @@
+yandex-bem-www-nginx-conf (1.6) unstable; urgency=low
+
+  * add borschik rewrites
+
+ -- Vladimir Grinenko <tadatuta@yandex-team.ru>  Tue, 08 Oct 2013 12:26:27 +0400
+
 yandex-bem-www-nginx-conf (1.5) unstable; urgency=low
 
   * lang support for testing server
